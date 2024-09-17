@@ -1,0 +1,151 @@
+:root {
+  --color-primary: #2544CA;
+  --color-primary-light: #6363fc;
+  --color-primary-dark: #3535a0;
+  --color-primary-very-dark: #162876;
+
+  --color-gray: #f0f3f8;
+  --color-gray-light: #f7f9fc;
+  --color-gray-dark: #8c99ad;
+  --color-gray-very-dark: #414b5c;
+
+  --color-success: #00e19a;
+  --color-success-light: #b7f1e2;
+  --color-success-dark: #13b481;
+  --color-success-transparent: rgba(0, 225, 154, 0.1);
+
+  --color-warning: #ffae56;
+  --color-warning-light: #fff0de;
+  --color-warning-dark: #e8963d;
+
+  --color-error: #ff3d30;
+  --color-error-light: #ffe5e2;
+  --color-error-dark: #de2a1e;
+
+  --color-info: #45dbf4;
+  --color-info-light: #ddf9ff;
+  --color-info-dark: #1fb9d2;
+
+  --color-black: #414b5c;
+  --color-white: #ffffff;
+
+  --color-background: #ffffff;
+  --color-card-background: #ffffff;
+
+  --full-page-body-background-color: #f3f6f9;
+
+  --max-width-xs: 320px;
+  --max-width-sm: 640px;
+  --max-width-md: 768px;
+  --max-width-lg: 1024px;
+  --max-width-xl: 1280px;
+  --max-width-xxl: 1536px;
+  --max-width-xxxl: 1920px;
+  --max-width-full: 100%;
+
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-md: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-xxl: 1.5rem;
+  --font-size-xxxl: 1.875rem;
+
+  --font-weight-light: 300;
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+
+  --line-height-xs: 1rem;
+  --line-height-sm: 1.25rem;
+  --line-height-md: 1.5rem;
+  --line-height-lg: 1.75rem;
+  --line-height-xl: 1.75rem;
+  --line-height-xxl: 2rem;
+  --line-height-xxxl: 2.25rem;
+
+  --headline1-font-family: Inter, sans-serif;
+  --headline1-font-size: 1.75rem;
+  --headline1-font-weight: 700;
+  --headline1-line-height: 1.2143;
+
+  --headline2-font-family: Inter, sans-serif;
+  --headline2-font-size: 1.5rem;
+  --headline2-font-weight: 700;
+  --headline2-line-height: 1.25;
+
+  --headline3-font-family: Inter, sans-serif;
+  --headline3-font-size: 1.0625rem;
+  --headline3-font-weight: 700;
+  --headline3-line-height: 1.2941;
+
+  --headline4-font-family: Inter, sans-serif;
+  --headline4-font-size: 0.875rem;
+  --headline4-font-weight: 700;
+  --headline4-line-height: 1.4286;
+
+  --headline5-font-family: Inter, sans-serif;
+  --headline5-font-size: 0.75rem;
+  --headline5-font-weight: 700;
+  --headline5-line-height: 1.6;
+
+  --headline6-font-family: Inter, sans-serif;
+  --headline6-font-size: 0.75rem;
+  --headline6-font-weight: 700;
+  --headline6-line-height: 1.6;
+
+  --subtitle1-font-family: Inter, sans-serif;
+  --subtitle1-font-size: 0.875rem;
+  --subtitle1-font-weight: 700;
+  --subtitle1-line-height: 1.4286;
+
+  --subtitle2-font-family: Inter, sans-serif;
+  --subtitle2-font-size: 0.75rem;
+  --subtitle2-font-weight: 700;
+  --subtitle2-line-height: 1.6;
+
+  --body1-font-family: Inter, sans-serif;
+  --body1-font-size: 0.875rem;
+  --body1-font-weight: 400;
+  --body1-line-height: 1.4286;
+
+  --body2-font-family: Inter, sans-serif;
+  --body2-font-size: 0.75rem;
+  --body2-font-weight: 400;
+  --body2-line-height: 1.6;
+
+  --caption-font-family: Inter, sans-serif;
+  --caption-font-size: 0.625rem;
+  --caption-font-weight: 400;
+  --caption-line-height: 1.6;
+
+  --overline-font-family: Inter, sans-serif;
+  --overline-font-size: 0.625rem;
+  --overline-font-weight: 700;
+  --overline-line-height: 1.6;
+
+  --button-font-family: Inter, sans-serif;
+  --button-font-size: 0.875rem;
+  --button-font-weight: 700;
+  --button-line-height: 1.4286;
+
+  --default-font-family: Inter, sans-serif;
+  --default-font-size: 1rem;
+  --default-font-weight: 400;
+  --default-line-height: 1.3846;
+
+  --font-family: Inter, sans-serif;
+  --font-size: 1rem;
+  --font-weight: 400;
+  --line-height: 1.3846;
+
+  --border-radius: 1rem;
+  --card-border-radius: 0.5rem;
+  --button-border-radius: 0.5rem;
+
+  --table-header-background-color: #F0F3F8;
+  --table-border-radius: 0.5rem;
+
+  --box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+}

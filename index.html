@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <meta name="description" content="Dashboard for blueberry developed by Oneclick" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <title>Blueberry Dashboard</title>
+
+  <!-- stonly-widget -->
+  <script>window.STONLY_WID = "fb2f5c35-a3b7-11ed-871a-0a52ff1ec764";</script>
+  <script>
+    !function (s, t, o, n, l, y, w, g) {
+      s.StonlyWidget || ((w = s.StonlyWidget = function () {
+        w._api ? w._api.apply(w, arguments) : w.queue.push(arguments)
+      }).scriptPath = n, w.queue = [], (y = t.createElement(o)).async = !0,
+        (g = new XMLHttpRequest).open("GET", n + "version?v=" + Date.now(), !0), g.onreadystatechange = function () {
+          4 === g.readyState && (y.src = n + "stonly-widget.js?v=" + (200 === g.status ? g.responseText : Date.now()),
+            (l = t.getElementsByTagName(o)[0]).parentNode.insertBefore(y, l))
+        }, g.send())
+    }(window, document, "script", "https://stonly.com/js/widget/v2/");
+  </script>
+</head>
+
+<body>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="root"></div>
+</body>
+
+</html>
